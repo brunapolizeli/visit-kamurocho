@@ -78,3 +78,8 @@ It is intended as a portfolio ready example of HTML and CSS fundamentals.
 ## Status
 
 Stable version. Additional pages and visual refinements are planned.
+
+---
+
+## License
+This project is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free to use, share, and adapt for non-commercial purposes, with attribution.
