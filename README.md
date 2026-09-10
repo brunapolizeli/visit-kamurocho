@@ -1,3 +1,5 @@
+[🇺🇸 English](README.md) | [🇧🇷 Português](README.pt-BR.md)
+
 # Visit Kamurocho
 
 This repository contains a dark mode landing page inspired by **Kamurocho**, a fictional city from the _Like a Dragon_ video game series.  
