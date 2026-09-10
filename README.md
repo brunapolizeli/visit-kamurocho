@@ -5,7 +5,7 @@
 This repository contains a dark mode landing page inspired by **Kamurocho**, a fictional city from the _Like a Dragon_ video game series.  
 The project was developed as part of my ongoing studies in web development, following a full stack learning path, using HTML and CSS.
 
-[**Live Demo — visit-kamurocho.vercel.app**](https://visit-kamurocho.vercel.app/)
+[**Live Demo: visit-kamurocho.vercel.app**](https://visit-kamurocho.vercel.app/)
 
 ---
 
